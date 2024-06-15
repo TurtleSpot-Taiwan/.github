@@ -1,0 +1,3 @@
+## Hi there 👋
+
+TurtleSpot Taiwan is a citizen science initiative that collects sea turtle sighting data contributed by citizen scientists. Through the Photo-ID method, we identified sea turtle individuals through their unique facial-scutes pattern and occasionally distinct characteristics of their physical appearances such as caparace or limb injury. It is hoped that TurtleSpot Taiwan will be a good platform for everyone to learn more about the ocean environment and encourage positive human-wild animal interactions. We invite everyone to provide sighting information, photos and/or videos of sea turtles.
